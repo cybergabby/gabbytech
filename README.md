@@ -83,11 +83,7 @@ Designed hands-on labs and courses for aspiring penetration testers.
 
 ### 🔹 Firewall Configuration & Policy Hardening — *GIATAA*  
 Designed and deployed firewall rule sets enforcing least privilege and network segmentation.  
-**Tools:** pfSense · Cisco ASA · Snort  
-
-### 🔹 Threat Hunting & Malware Analysis  
-Analyzed payloads, identified IoCs, and created detection playbooks.  
-**Tools:** VirusTotal · ProcMon · Wireshark  
+**Tools:** pfSense · Cisco ASA · Snort   
 
 ---
 
@@ -97,28 +93,6 @@ Analyzed payloads, identified IoCs, and created detection playbooks.
 - 🔐 Certified API Hacking Expert (CAPIE) — *theXSSAcademy*  
 - 💳 MasterCard Cyber Security Job Simulation  
 - 🛰️ DataCom CyberSecurity Operations  
-
----
-
-## 🧾 Experience
-
-### 🧑‍🏫 Cybersecurity Instructor – Web Application Security  
-**TeliyTech Institute | Nov 2025 – Present**  
-- Delivered hands-on security training and lab sessions  
-- Designed Web & API vulnerability exploitation challenges  
-- Guided students through secure development best practices  
-
-### 🧠 Security Research & Penetration Testing  
-**Freelance | Jun 2025 – Present**  
-- Reported vulnerabilities like ATO, IDOR, 2FA bypass to startups  
-- Conducted private penetration tests for fintech APIs  
-- Produced detailed remediation reports  
-
-### 💻 CyberSecurity Intern – Web Application Penetration Tester  
-**TeliyTech Institute | Apr 2025 – Oct 2025**  
-- Performed penetration testing on live web apps  
-- Identified XSS, SQLi, and logic flaws  
-- Collaborated on CTF and security research  
 
 ---
 
