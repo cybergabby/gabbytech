@@ -26,8 +26,6 @@ I specialize in **Offensive Security**, **Vulnerability Research**, and **Applic
 - 🧩 **Application Security Engineering**
 - 🌐 **Web & Mobile Application Penetration Testing**
 - 🔐 **API Security Testing & Exploitation**
-- 🧱 **Firewall Policy Hardening & Network Defense**
-- 🧪 **Threat Hunting & Malware Analysis**
 - 💬 **Cybersecurity Training & Awareness**
 - 🕵️‍♂️ **Bug Bounty & Vulnerability Disclosure**
 
